@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+1,AlphaWidget,Electronics,199
+2,BetaGadget,Electronics,249
+3,DeltaDevice,Home Appliances,149
+4,GammaTool,Tools,89
+5,EpsilonItem,Books,19
+6,ZetaWidget,Clothing,39
+7,EtaGadget,Electronics,299
+8,ThetaDevice,Home Appliances,199
+9,IotaTool,Tools,79
+10,KappaItem,Books,29
+11,LambdaWidget,Clothing,49
+12,MuGadget,Electronics,159
+13,NuDevice,Home Appliances,129
+14,XiTool,Tools,99
+15,OmicronItem,Books,24
+16,PiWidget,Clothing,59
+17,RhoGadget,Electronics,179
+18,SigmaDevice,Home Appliances,179
+19,TauTool,Tools,109
+20,UpsilonItem,Books,14
+21,PhiWidget,Clothing,69
+22,ChiGadget,Electronics,209
+23,PsiDevice,Home Appliances,139
+24,OmegaTool,Tools,89
+25,AlphaItem,Books,19
+26,BetaWidget,Clothing,79
+27,GammaGadget,Electronics,189
+28,DeltaDevice,Home Appliances,149
+29,EpsilonTool,Tools,69
+30,ZetaItem,Books,9
+31,EtaWidget,Clothing,89
+32,ThetaGadget,Electronics,299
+33,IotaDevice,Home Appliances,199
+34,KappaTool,Tools,99
+35,LambdaItem,Books,29
+36,MuWidget,Clothing,49
+37,NuGadget,Electronics,159
+38,XiDevice,Home Appliances,129
+39,OmicronTool,Tools,109
+40,PiItem,Books,24
+41,RhoWidget,Clothing,59
+42,SigmaGadget,Electronics,179
+43,TauDevice,Home Appliances,179
+44,UpsilonTool,Tools,119
+45,PhiItem,Books,14
+46,ChiWidget,Clothing,69
+47,PsiGadget,Electronics,219
+48,OmegaDevice,Home Appliances,149
+49,AlphaTool,Tools,89
+50,BetaItem,Books,19
+51,GammaWidget,Clothing,79
+52,DeltaGadget,Electronics,199
+53,EpsilonDevice,Home Appliances,179
+54,ZetaTool,Tools,129
+55,EtaItem,Books,9
+56,ThetaWidget,Clothing,89
+57,IotaGadget,Electronics,239
+58,KappaDevice,Home Appliances,199
+59,LambdaTool,Tools,99
+60,MuItem,Books,29
+61,NuWidget,Clothing,49
+62,XiGadget,Electronics,159
+63,OmicronDevice,Home Appliances,129
+64,PiTool,Tools,109
+65,RhoItem,Books,24
+66,SigmaWidget,Clothing,59
+67,TauGadget,Electronics,179
+68,UpsilonDevice,Home Appliances,179
+69,PhiTool,Tools,119
+70,ChiItem,Books,14
+71,PsiWidget,Clothing,69
+72,OmegaGadget,Electronics,229
+73,AlphaDevice,Home Appliances,149
+74,BetaTool,Tools,99
+75,GammaItem,Books,19
+76,DeltaWidget,Clothing,79
+77,EpsilonGadget,Electronics,189
+78,ZetaDevice,Home Appliances,159
+79,EtaTool,Tools,109
+80,ThetaItem,Books,9
+81,IotaWidget,Clothing,89
+82,KappaGadget,Electronics,249
+83,LambdaDevice,Home Appliances,179
+84,MuTool,Tools,129
+85,NuItem,Books,29
+86,XiWidget,Clothing,49
+87,OmicronGadget,Electronics,159
+88,PiDevice,Home Appliances,129
+89,RhoTool,Tools,139
+90,SigmaItem,Books,24
+91,TauWidget,Clothing,59
+92,UpsilonGadget,Electronics,179
+93,PhiDevice,Home Appliances,179
+94,ChiTool,Tools,119
+95,PsiItem,Books,14
+96,OmegaWidget,Clothing,69
+97,AlphaGadget,Electronics,219
+98,BetaDevice,Home Appliances,149
+99,GammaTool,Tools,109
+100,DeltaItem,Books,19
